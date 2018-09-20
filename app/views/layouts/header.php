@@ -3,7 +3,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     <title>Exercise Tracker</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 </head>
 <body>
-
+<div class="main">
 <?php require('nav.php'); ?>
